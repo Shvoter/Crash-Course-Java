@@ -42,7 +42,7 @@ public class Person {
     }
 
     public void output() {
-        System.out.printf("Person {\nname: %s,\nyear of birth: %d,\n}", name, birthYear);
+        System.out.printf("Person {\nname: %s,\nyear of birth: %d,\n}\n", name, birthYear);
     }
 
     public void changeName(String name) {

@@ -13,5 +13,6 @@ public class Main {
         Alica.input("Alica", 2000);
         Carl.input("Carl", 2004);
         Anton.input("Anton", 2010);
+
     }
 }
