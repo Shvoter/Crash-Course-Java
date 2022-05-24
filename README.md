@@ -15,3 +15,7 @@ Uncomment each part separately for checking.
 Do not forget comment previous part before uncomment the next.
 
 Check additional static method in class Main and class Car if you need.
+
+ Task 3
+ 
+Same to task 2
