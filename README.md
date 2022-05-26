@@ -19,3 +19,9 @@ Check additional static method in class Main and class Car if you need.
  Task 3
  
 Same to task 2
+
+Task 4 
+
+Solution by link
+
+https://github.com/Shvoter/JavaMavenJunitTask4
